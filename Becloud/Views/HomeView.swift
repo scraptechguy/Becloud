@@ -10,6 +10,7 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         AnimatedBlobView()
+            .scaleEffect(2)
             .overlay(.ultraThinMaterial)
             .ignoresSafeArea()
     }
