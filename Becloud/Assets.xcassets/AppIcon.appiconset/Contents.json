@@ -43,7 +43,7 @@
       "size" : "40x40"
     },
     {
-      "filename" : "Rectangle 127.png",
+      "filename" : "BecloudAppIcon120x120.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "3x",
@@ -92,7 +92,7 @@
       "size" : "83.5x83.5"
     },
     {
-      "filename" : "Rectangle 130.png",
+      "filename" : "BecloudAppIcon1024x1024.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
